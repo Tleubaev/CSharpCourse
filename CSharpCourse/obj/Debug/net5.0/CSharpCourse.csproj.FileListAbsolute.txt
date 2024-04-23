@@ -1,0 +1,15 @@
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net5.0\CSharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net5.0\CSharpCourse.AssemblyInfoInputs.cache
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net5.0\CSharpCourse.AssemblyInfo.cs
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net5.0\CSharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net5.0\CSharpCourse.exe
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net5.0\CSharpCourse.deps.json
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net5.0\CSharpCourse.runtimeconfig.json
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net5.0\CSharpCourse.runtimeconfig.dev.json
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net5.0\CSharpCourse.dll
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\bin\Debug\net5.0\CSharpCourse.pdb
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net5.0\CSharpCourse.dll
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net5.0\refint\CSharpCourse.dll
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net5.0\CSharpCourse.pdb
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net5.0\CSharpCourse.genruntimeconfig.cache
+C:\Users\kebla\source\repos\CSharpCourse\CSharpCourse\obj\Debug\net5.0\ref\CSharpCourse.dll

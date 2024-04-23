@@ -1,0 +1,15 @@
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\bin\Debug\net5.0\C_ArrayCollections.exe
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\bin\Debug\net5.0\C_ArrayCollections.deps.json
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\bin\Debug\net5.0\C_ArrayCollections.runtimeconfig.json
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\bin\Debug\net5.0\C_ArrayCollections.runtimeconfig.dev.json
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\bin\Debug\net5.0\C_ArrayCollections.dll
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\bin\Debug\net5.0\C_ArrayCollections.pdb
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\obj\Debug\net5.0\C_ArrayCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\obj\Debug\net5.0\C_ArrayCollections.AssemblyInfoInputs.cache
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\obj\Debug\net5.0\C_ArrayCollections.AssemblyInfo.cs
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\obj\Debug\net5.0\C_ArrayCollections.csproj.CoreCompileInputs.cache
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\obj\Debug\net5.0\C_ArrayCollections.dll
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\obj\Debug\net5.0\refint\C_ArrayCollections.dll
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\obj\Debug\net5.0\C_ArrayCollections.pdb
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\obj\Debug\net5.0\C_ArrayCollections.genruntimeconfig.cache
+C:\Users\kebla\source\repos\CSharpCourse\C_ArrayCollections\obj\Debug\net5.0\ref\C_ArrayCollections.dll
